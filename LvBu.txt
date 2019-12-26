@@ -1,0 +1,3 @@
+Name : LvBu
+Nation : Qun
+Skill : double dodge needed for the enemy when being attacked by this character 
